@@ -10,7 +10,7 @@ today and indeed today and tomorrow I'm
 
 3
 00:00:10,490 --> 00:00:14,329
-将讨论raft  既因为我
+将谈论raft  既因为我
 gonna talk about raft both because I
 
 4
@@ -55,30 +55,37 @@ systems that we've looked at so far
 
 12
 00:00:35,800 --> 00:00:40,640
+其一就是MapReduce计算
 one is that MapReduce replicates
 
 13
 00:00:40,640 --> 00:00:43,640
+副本 但是这种副本是
 computation but the replication is
 
 14
 00:00:43,640 --> 00:00:45,949
+被整个计算所控制的 
 controlled the whole computation is
 
 15
 00:00:45,949 --> 00:00:50,120
+被单一主节点所控制
 controlled by a single master another
 
 16
 00:00:50,120 --> 00:00:52,129
+另一个我想引起你注意的例子是
 example I'd like to draw your attention
 
 17
 00:00:52,129 --> 00:00:55,339
+GFS数据副本 就像
 to is that GFS replicates data right as
 
 18
 00:00:55,339 --> 00:00:56,780
+这种主从模式
 this primary backup scheme for
 
 19
