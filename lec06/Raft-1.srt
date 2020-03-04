@@ -45,11 +45,12 @@ introduction to the problem you may have
 
 10
 00:00:31,070 --> 00:00:33,949
-已注意到
+已注意到一种我们最近
 noticed a pattern in fault-tolerant
 
 11
 00:00:33,949 --> 00:00:35,800
+看到的一种容错模式
 systems that we've looked at so far
 
 12
