@@ -15,7 +15,7 @@ gonna talk about raft both because I
 
 4
 00:00:14,329 --> 00:00:16,239
-希望 其对于你们
+希望它对于你们
 hope it'll be helpful you for you in
 
 5
@@ -25,22 +25,27 @@ implanting though the labs and also
 
 6
 00:00:19,340 --> 00:00:21,650
+你们知道的 它只是一个详细的案例研究
 because you know it's just a case study
 
 7
 00:00:21,650 --> 00:00:23,210
+关于如何获得正确的
 in the details of how to get state
 
 8
 00:00:23,210 --> 00:00:28,550
+状态机副本 所以我们
 machine replication correct so we have
 
 9
 00:00:28,550 --> 00:00:31,070
+引入了一个问题 你可能
 introduction to the problem you may have
 
 10
 00:00:31,070 --> 00:00:33,949
+已注意到
 noticed a pattern in fault-tolerant
 
 11
